@@ -1,0 +1,13 @@
+{
+  "location": {
+    "lat": 5.5167,
+    "lng": 5.7333,
+    "address": "KM 33 NPA – DSC Expy, Opposite Chalisco Junction, Tori, Warri, Delta State, Nigeria"
+  },
+  "style": "dark_grayscale",
+  "theme": {
+    "primary": "#FF4500",
+    "background": "#121212",
+    "text": "#FFFFFF"
+  }
+}
